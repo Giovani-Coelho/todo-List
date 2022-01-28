@@ -1,5 +1,5 @@
 # Todo List
-
+![image](https://user-images.githubusercontent.com/98501291/151560502-b21b843c-5d63-4397-b973-697cc974080e.png)
 adds a list with the desired name, and can be deleted
 
 ## Technology stack
